@@ -21,6 +21,7 @@ export default function  () {
               <div className="topbarIconContainer">
                   <SettingsIcon/>
               </div>
+              <img src="https://scontent.ftun14-1.fna.fbcdn.net/v/t1.6435-9/181270176_3953464234701700_4963932868331912823_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=N7TwypBzXxUAX_dGIG-&tn=QbMEh5YNOxS6mRpQ&_nc_ht=scontent.ftun14-1.fna&oh=00_AT-dNFHcSHRa-pevuebG_bQvYA2GiSzQ-pDGc7Rp5qHP7g&oe=6214F5B3" alt="" className="topAvatar" />
           </div>
       </div>
   </div>;
