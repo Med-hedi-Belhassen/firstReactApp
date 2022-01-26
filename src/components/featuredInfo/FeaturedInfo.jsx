@@ -24,7 +24,7 @@ export default function FeaturedInfo() {
           <span className='featuredTitle'> Costs</span>
           <div className="featuredMoneyContainer">
               <span className='featuredMoney'>4,415 DT</span>
-              <span className='featuredMoneyRate'>14.4 <ArrowUpwardIcon className='feturedIcon positive'/></span>
+              <span className='featuredMoneyRate'>14.4 <ArrowUpwardIcon className='feturedIcon'/></span>
           </div>
           <span className="featuredSub">Comapred to Last month</span>
       </div>
